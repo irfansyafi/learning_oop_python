@@ -1,3 +1,5 @@
+This repo is cloned from https://github.com/ariannedee/oop-python
+
 # Object-Oriented Programming in Python Live Training
 
 This is the code for the *O'Reilly Live Training* - **Object-Oriented Programming in Python** presented by Arianne Dee
