@@ -1,3 +1,7 @@
+**<details><summary style="color: purple">Q: Why learning this is important?</summary>**
+> Learning this is important if you want to be a good coder or 10x developer.
+</details><br>
+
 This repo is cloned from https://github.com/ariannedee/oop-python
 
 # Object-Oriented Programming in Python Live Training
